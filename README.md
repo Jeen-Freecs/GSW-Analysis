@@ -12,4 +12,5 @@ If this research project will be continued, we'd like to research linearity/non-
 
 Furthermore, I also wanted to analyze how each feature is contributed to a model performance.
 
+The data was taken from https://www.kaggle.com/datasets/nathanlauga/nba-games
 
