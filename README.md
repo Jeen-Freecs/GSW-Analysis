@@ -1,4 +1,5 @@
-# GSW-Analysis
+# GSW-Analysis-Modeling
+
 Stephen Curry's influence on Golden State Warriors(GSW) Performance and Predicting the Golden State Warriors(GSW) WIN/LOSS for 2012-2021 period games.
 **In the analysis notebook**, I have conducted an analytical research on Stephen Curry's influence on Golden State Warriors(GSW) Performance by researching the following questions:
 1. How had the win rate of GSW changed throughout the 2003-2021 period, and what is difference between GSW(2015) and GSW(2019) in average points per game?
